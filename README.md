@@ -5,6 +5,7 @@ from manual object creation in Java to Inversion of Control (IoC) using the Spri
 I am Configuring the Spring Context using the @Configuration annotation.
 I am Adding custom objects to the Spring "warehouse" using the @Bean annotation.
 I am Retrieving managed objects (Beans) from the AnnotationConfigApplicationContext.
+<img width="925" height="663" alt="Screenshot from 2026-03-03 21-47-43" src="https://github.com/user-attachments/assets/0e1857af-ef15-4d91-a1a4-6b7d55746214" />
 
 The Project Structure
 The application is built using three core components:
