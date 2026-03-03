@@ -37,6 +37,3 @@ Expected Output: The console should print the name of the parrot ("Oke") retriev
 Key Takeaway
 The most important lesson here was Inversion of Control. I no longer manage the lifecycle of the Parrot object; 
 I delegating that responsibility to the Spring Framework.
-
-💡 Pro-Tip for your GitHub
-If you have a screenshot of your console output showing the parrot's name, you can actually drag and drop that image into your README on GitHub to make it look even more impressive!
